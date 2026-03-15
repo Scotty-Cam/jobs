@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Generated pipeline outputs
+html/
+pages/
+site/
+occupations.json
+occupations.csv
+scores.json
+
+# Optional enrichment data (large / sourced externally)
+data/ashe.csv
+data/labour_demand.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

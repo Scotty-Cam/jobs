@@ -1,0 +1,13 @@
+[project]
+name = "ukjobs"
+version = "0.1.0"
+description = "UK jobs AI exposure pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "beautifulsoup4>=4.12.0",
+  "httpx>=0.27.0",
+  "openpyxl>=3.1.0",
+  "python-dotenv>=1.0.0",
+  "rapidfuzz>=3.0.0",
+]

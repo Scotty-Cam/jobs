@@ -1,0 +1,11 @@
+slug,decision,notes
+warehouse-worker,accept,Mapping to warehouse operatives is plausible; high count reflects broad SOC coverage.
+admin-assistant,accept,General admin role maps plausibly to other administrative occupations n.e.c.
+pastoral-care-worker,accept,Care-worker mapping retained pending a narrower SOC source.
+training-officer,accept,Vocational trainer mapping retained as best available SOC fit.
+rqf-assessor,accept,Assessor role grouped with vocational/industrial trainers.
+human-resources-officer,accept,Mapped to HR and industrial relations officers after prior correction.
+stock-control-assistant,accept,Stock control clerks and assistants is semantically aligned.
+nursing-associate,accept,Registered nursing professionals grouping retained for current SOC granularity.
+montessori-teacher,accept,Teaching professionals n.e.c. retained as closest available mapping.
+search-engine-optimisation-seo-specialist,accept,Marketing associate professionals retained as best available mapping.
