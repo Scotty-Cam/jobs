@@ -2,6 +2,10 @@
 
 Analyzing how susceptible occupations in the UK economy are to AI and automation, using UK occupation profiles and labour market data.
 
+**Live site:** [https://aiukjobs.web.app/](https://aiukjobs.web.app/)
+
+![AI UK Jobs Demo](./assets/aiukjobs-demo.gif)
+
 ## What this project does
 
 This project builds a UK equivalent of the AI exposure analysis pipeline and website.
